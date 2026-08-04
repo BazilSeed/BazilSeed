@@ -1,6 +1,6 @@
 # Travon Bazil
 
-👋 Hi, I'm Travon Bazil, a Computer Science graduate from Western Governors University and graduate student at the University of Central Florida studying Computer Science and Cybersecurity.
+👋 Hi, I'm Travon Bazil, a Computer Science graduate and current graduate student at the University of Central Florida studying Computer Science and Cybersecurity.
 
 📍 Orlando, Florida
 
