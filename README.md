@@ -27,4 +27,4 @@ Java, Python, C++, Go, JavaScript, TypeScript, Spring Boot, Angular, React, Dock
 
 ## Contact
 - Email: travon.bazil@gmail.com
-- LinkedIn: linkedin.com/in/travonbazil
+- LinkedIn: https://www.linkedin.com/in/travon-bazil-3512402a3/
