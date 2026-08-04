@@ -1,16 +1,30 @@
-## Hi there 👋
+# Travon Bazil
 
-<!--
-**BazilSeed/BazilSeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Travon Bazil, a Computer Science graduate from Western Governors University and graduate student at the University of Central Florida studying Computer Science and Cybersecurity.
 
-Here are some ideas to get you started:
+📍 Orlando, Florida
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a full stack software engineer with experience in Java, Python, Go, and JavaScript. I build cloud deployed applications, AI powered tools, and autonomous systems. I am passionate about AI engineering, cybersecurity, and backend development.
+
+## Projects
+
+**Hotel Room Reservation System** | Java, Spring Boot, Angular, Docker, Azure
+- Full stack hotel reservation system with RESTful APIs, multi-currency pricing, and multilingual support deployed to Azure
+
+**Document Q&A RAG System** | Python, Anthropic Claude API, scikit-learn
+- Retrieval augmented generation system that grounds AI answers in document context to prevent hallucination
+
+**Disaster Recovery Bot** | Python, CoppeliaSim
+- Autonomous search and rescue robot with AI driven navigation and sensor integration
+
+**Concurrent URL Health Checker** | Go
+- CLI tool using goroutines and channels to check endpoint health concurrently
+
+## Skills
+Java, Python, C++, Go, JavaScript, TypeScript, Spring Boot, Angular, React, Docker, AWS, Azure, MySQL, Git
+
+## Contact
+- Email: travon.bazil@gmail.com
+- LinkedIn: linkedin.com/in/travonbazil
